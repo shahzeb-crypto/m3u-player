@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.m3uplayer.app"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.m3uplayer.app"
